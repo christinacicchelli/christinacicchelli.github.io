@@ -2,11 +2,22 @@ body {
 	color: #FDAFAB;
 	background-color: #FFF8EE;
 }
-h1, h2, h3, p {
+h1 {
 	color: #FC6D63;
 }
+h2 {
+	color: #FC6D63;
+} 
+h3 {
+	color: #FC6D63;
+} 
 p {
-	font-family: "Palatino Linotype", "Book Antiqua", "Palatino", "serif";
+	font-family: "Palatino Linotype", "Book Antiqua", "serif";
+	color: #FC6D63;
+}
+ul {
+  background: #3399ff;
+  padding: 20px;
 }
 a {
 	color: #FAD4AE;
