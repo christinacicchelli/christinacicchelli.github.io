@@ -40,6 +40,8 @@ p {
 }
 ul {
   color: #FC6D63;
+  text-align: center;
+  list-style-type: none;
 }
 a {
 	color: #FAD4AE;
