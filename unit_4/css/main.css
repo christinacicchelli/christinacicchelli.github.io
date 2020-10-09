@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Homemade+Apple&family=Playfair+Display&display=swap');
 body {
 	color: #FFF8EE;
 	background-color: #FFF8EE;
@@ -33,13 +34,19 @@ h2 {
 	text-align: left;
 }
 #slogan {
-	font-family: "Courier", serif;
-	font-size: 36px;
+	font-family: "Homemade Apple", serif;
+	font-size: 48px;
+	line-height: 120%;
 	vertical-align: middle;
 	position: relative;
 }
+#subheader {
+	font-family: "EB Garamond", serif;
+	font-size: 28px;
+}
 h3 {
 	color: #FC6D63;
+	font-family: "Playfair Display", serif;
 	font-size: 24px;
 	font-weight: normal;
 } 
@@ -47,7 +54,7 @@ h3 {
 	text-decoration: underline;
 }
 p {
-	font-family: "Palatino Linotype", serif;
+	font-family: "EB Garamond", serif;
 	color: #363121;
 }
 ul {
