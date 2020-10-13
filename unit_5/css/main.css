@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Homemade+Apple&family=Playfair+Display&display=swap');
+body {
+	color: #363121;
+	background-color: #FF2A00;
+	text-align: left;
+	font-size: 18px;
+}
+header {
+	display: flex;
+	height: 100%;
+	background-size: cover;
+	background-color: #FFED74;
+}
+nav{
+	background-color: #E8C66A;
+}
+div {
+	background-color: #FFE2B8;
+}
+section {
+	background-color: #FFE2B8;
+}
+.column {
+	float: right;
+}
+.flex-container {
+    display: flex;
+}
+.flex-child {	
+    color: #FDAFAB;
+	background-color: #FFF8EE;
+	margin: 25px;
+	padding: 15px;
+	box-shadow: 5px 5px 5px #000;
+	flex: 1;
+} 
+h1 {
+	color: #FC6D63;
+	font-size: 48px;
+}
+h2 {
+	color: #FC6D63;
+	text-align: left;
+}
+#slogan {
+	font-family: "Homemade Apple", serif;
+	font-size: 48px;
+	line-height: 120%;
+	vertical-align: middle;
+	position: relative;
+}
+#subheader {
+	font-family: "EB Garamond", serif;
+	font-size: 28px;
+}
+h3 {
+	color: #FC6D63;
+	font-family: "Playfair Display", serif;
+	font-size: 36px;
+	font-weight: normal;
+} 
+h4 {
+	color: #363121;
+	font-family: "Homemade Apple", serif;
+	font-size: 28px;
+	text-align: center;
+}
+p {
+	font-family: "EB Garamond", serif;
+	color: #363121;
+}
+ul {
+  color: #918658;
+  list-style-type: circle;
+}
+a {
+	color: #FAD4AE;
+	background-color: #FC6D63;
+}
+footer {
+	background-color: #FF957E;
+	text-align: center;
+}
