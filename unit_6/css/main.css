@@ -64,10 +64,12 @@ section {
 	margin: 25px;
 	padding: 15px;
 	box-shadow: 5px 5px 5px #000;
-	border: solid 5px #05F2DB;
+	border: solid 2px #05F2DB;
 /*	flex: 1;*/
 } 
 .design {
+	color: #363121;
+	background-color: #040D4A;
 	margin: 7px;
 	padding: 15px;
 	box-shadow: 5px 5px 5px #000;
@@ -75,6 +77,20 @@ section {
 	float: left;
 	line-height: inherit;
 	font-size: 36px;
+}
+.work {
+	color: #040D4A;
+	background-color: #E9F2F2;
+	margin: 7px;
+	padding: 15px;
+	box-shadow: 5px 5px 5px #000;
+	flex: 1;
+	float: left;
+	line-height: inherit;
+	font-size: 36px;
+}
+#offerings {
+	color: #040D4A;
 }
 #doodler {
 	height: 734px;
